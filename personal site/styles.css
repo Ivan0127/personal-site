@@ -135,3 +135,8 @@ h1{
       background-position: top right;
   }
 }
+
+.show {
+  font-family: 'Expletus Sans', cursive;
+  color:rgb(26, 201, 192);
+}
